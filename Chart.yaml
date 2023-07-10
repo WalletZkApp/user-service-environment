@@ -1,0 +1,6 @@
+---
+apiVersion: v2
+name: zkwallet-user-service
+description: Enviroment chart of zkwallet-user-service
+type: application
+version: 0.1.0
