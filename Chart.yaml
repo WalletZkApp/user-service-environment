@@ -4,3 +4,8 @@ name: zkwallet-user-service
 description: Enviroment chart of zkwallet-user-service
 type: application
 version: 0.1.0
+
+dependencies:
+  - name: zkWallet-globals
+    repository: https://github.com/WalletZkApp/helm-charts
+    version:: "~0"
